@@ -1,6 +1,8 @@
 # CropBreederWizzard
 CropBreederWizzard - This is a small project for small farmers. Gives AI based recommendations what are the best crops for grandma's garden
-## AI based mobile/desktop application whose idea is to collect various data from different sources and give a reliable suggestion to the user what is best to plant in a given field or even a small private yard.
+## Summary
+ 
+ AI based mobile/desktop application whose idea is to collect various data from different sources and give a reliable suggestion to the user what is best to plant in a given field or even a small private yard.
 The app has the ability to read data from various databases and systems. 
 It combines and analyzes the data giving reasoned suggestions. 
 The main sources of information will be the GPS coordinates of the location queried, data on the quality and type of soils in that area, elevation and the long-term weather forecast. 
